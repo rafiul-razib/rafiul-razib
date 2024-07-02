@@ -2,6 +2,6 @@
 
 ![Header](https://i.ibb.co/gmGRMHd/Black-Flatlay-Photo-Motivational-Finance-Quote-Facebook-Cover.png "Header")
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Rafiul Razib and I'm from Bangladesh. I am a Passionate MERN-focused front-end web developer with expertise in building responsive web applications. I am enthusiastic about learning new technologies, generating innovative ideas, and working with dedicated teams. You can find me on [![LinkedIn][3.2]][3].
