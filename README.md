@@ -6,7 +6,7 @@
 
 My name is Rafiul Razib and I'm from Bangladesh. I am a Passionate MERN-focused front-end web developer with expertise in building responsive web applications. I am enthusiastic about learning new technologies, generating innovative ideas, and working with dedicated teams.
 
-## :chart_with_upwards_trend: Current Stats
+## :chart_with_upwards_trend: Recent Stats
 
 <br />
 <p align="center">
