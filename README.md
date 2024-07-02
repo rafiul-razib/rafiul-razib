@@ -8,7 +8,7 @@ My name is Rafiul Razib and I'm from Bangladesh. I am a Passionate MERN-focused 
 
 <br/>
 
-## :computer: Technologies that I know
+## :computer: Technologies that I can work with
 
 <br>
 <p align="center">
