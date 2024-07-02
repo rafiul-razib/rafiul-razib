@@ -11,7 +11,7 @@ My name is Rafiul Razib and I'm from Bangladesh. I am a Passionate MERN-focused 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul-razib&layout=donut&theme=radical)](https://github.com/rafiul-razib/github-readme-stats&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rafiul-razib)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rafiul-razib&theme=highcontrast)](https://git.io/streak-stats)
 <be/>
 
 ## :computer: Technologies that I can work with
