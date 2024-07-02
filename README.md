@@ -15,14 +15,9 @@ My name is Rafiul Razib and I'm from Bangladesh. I am a Passionate MERN-focused 
 <img src="https://github.com/rafiul-razib/rafiul-razib/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/rafiul-razib/rafiul-razib/blob/main/images/icons/css.png"/>
 <img src="https://github.com/rafiul-razib/rafiul-razib/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/rafiul-razib/rafiul-razib/blob/main/images/icons/python.png"/>
-<img src="https://github.com/rafiul-razib/rafiul-razib/blob/main/images/icons/c.png"/>
-<img src="https://github.com/rafiul-razib/rafiul-razib/blob/main/images/icons/cpp.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/rafiul-razib/rafiul-razib/blob/main/images/icons/react.png"/>
-<img src="https://github.com/rafiul-razib/rafiul-razib/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/rafiul-razib/rafiul-razib/blob/main/images/icons/sass.png"/>
 <img src="https://github.com/rafiul-razib/rafiul-razib/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/rafiul-razib/rafiul-razib/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/rafiul-razib/rafiul-razib/blob/main/images/icons/firebase.png"/>
