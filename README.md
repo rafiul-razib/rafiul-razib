@@ -6,7 +6,7 @@
 
 My name is Rafiul Razib and I'm from Bangladesh. I am a Passionate MERN-focused front-end web developer with expertise in building responsive web applications. I am enthusiastic about learning new technologies, generating innovative ideas, and working with dedicated teams.
 
-<br/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiul-razib)](https://github.com/rafiul-razib/github-readme-stats)
 
 
