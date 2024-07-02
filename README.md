@@ -16,7 +16,7 @@ My name is Rafiul Razib and I'm from Bangladesh. I am a Passionate MERN-focused 
 
   
 
-  <div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div align="center">
   <a style="display: block;" href="https://github.com/rafiul-razib/github-readme-stats&show_icons=true&theme=radical">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafiul-razib&show_icons=true&theme=radical" /></a>
 <a style="display: block;" href="https://github.com/anuraghazra/convoychat">
