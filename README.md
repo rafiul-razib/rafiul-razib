@@ -13,16 +13,16 @@ My name is Rafiul Razib and I'm from Bangladesh. I am a Passionate MERN-focused 
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=rafiul-razib&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
   <div>
     <a href="https://github.com/rafiul-razib/github-readme-stats&show_icons=true&theme=radical">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafiul-razib&show_icons=true&theme=radical" />
-</a>
+    </a>
   </div>
 <div>
   <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul-razib&layout=donut&theme=radical" />
-</a>
+  </a>
 </div>
 </div>
  
