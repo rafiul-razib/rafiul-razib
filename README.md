@@ -4,4 +4,5 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Rafiul Razib and I'm from Bangladesh. I am a Passionate MERN-focused front-end web developer with expertise in building responsive web applications. I am enthusiastic about learning new technologies, generating innovative ideas, and working with dedicated teams. You can find me on [![LinkedIn][3.2]][3].
+My name is Rafiul Razib and I'm from Bangladesh. I am a Passionate MERN-focused front-end web developer with expertise in building responsive web applications. I am enthusiastic about learning new technologies, generating innovative ideas, and working with dedicated teams.
+
