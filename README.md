@@ -41,6 +41,8 @@ With a background in Engineering and over **13 years of leadership experience in
 ## 🌟 Featured Projects
 
 ### 🧠 Quizlytics
+##Live Demo
+https://quizlytics-client-nine.vercel.app
 
 AI-powered quiz generation platform that creates quizzes from topics, articles, and custom exam content.
 
@@ -56,6 +58,8 @@ AI-powered quiz generation platform that creates quizzes from topics, articles, 
 ---
 
 ### 🛒 AN Mobiles
+##Live Demo
+https://anmobilesltd.co.uk
 
 Production-ready e-commerce platform for mobile phones, laptops, tablets, and accessories.
 
@@ -72,6 +76,8 @@ Production-ready e-commerce platform for mobile phones, laptops, tablets, and ac
 ---
 
 ### 📄 AI Document Processor
+##Live Demo
+https://intelligent-doc-processor.up.railway.app
 
 AI-powered document classification and information extraction system.
 
@@ -88,6 +94,8 @@ AI-powered document classification and information extraction system.
 ---
 
 ### 🎟 Workshop Management System
+##Live Demo
+https://photography-workshop-client-manual.vercel.app
 
 Complete event registration and payment management platform.
 
@@ -159,13 +167,13 @@ Complete event registration and payment management platform.
 
 ---
 
-## 🌱 Currently Learning
 
-- Agentic AI Systems
-- Computer Vision
-- Advanced TypeScript
-- DevOps Fundamentals
-- Open Source Contribution
+## 🚀 Currently Building
+
+• AI Document Processing Platform
+• E-commerce Solutions with Next.js
+• Computer Vision Passenger Counting System
+• AI-powered Automation Tools
 
 ---
 
@@ -178,6 +186,8 @@ Complete event registration and payment management platform.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul-razib&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul-razib&theme=tokyonight&hide_border=true" />
+
+![](https://komarev.com/ghpvc/?username=rafiul-razib&color=blue)
 
 </div>
 
