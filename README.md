@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="https://i.ibb.co.com/qvPtR71/Chat-GPT-Image-Jun-3-2026-05-05-09-PM.png" alt="Rafiul Razib Banner" width="100%" />
@@ -212,4 +212,4 @@ Complete event registration and payment management platform.
 Building software that solves real-world problems through modern web technologies and AI.
 
 </div>
-```
+
