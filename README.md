@@ -87,11 +87,11 @@ AI-powered document classification and information extraction system.
 
 ---
 
-### 🎟 CPSCM Reunion Management System
+### 🎟 Workshop Management System
 
 Complete event registration and payment management platform.
 
-**Tech Stack:** Next.js • Express.js • MongoDB • SSLCommerz
+**Tech Stack:** Next.js • Express.js • MongoDB
 
 **Highlights**
 
@@ -173,9 +173,9 @@ Complete event registration and payment management platform.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rafiul-razib&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafiul-razib&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul-razib&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul-razib&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul-razib&theme=tokyonight&hide_border=true" />
 
@@ -185,9 +185,9 @@ Complete event registration and payment management platform.
 
 ## 🏆 Achievements
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rafiul-razib&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+</p> -->
 
 ---
 
