@@ -187,7 +187,6 @@ Complete event registration and payment management platform.
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul-razib&theme=tokyonight&hide_border=true" />
 
-![](https://komarev.com/ghpvc/?username=rafiul-razib&color=blue)
 
 </div>
 
